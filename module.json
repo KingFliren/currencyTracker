@@ -24,7 +24,7 @@
   "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "11",
   "url": "",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/KingFliren/currencyTracker/main/module.json",
   "download": "URL_to_download_this_module",
   "license": "LICENSE_TYPE"
 }
