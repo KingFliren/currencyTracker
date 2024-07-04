@@ -23,6 +23,8 @@ Hooks.once('ready', async function() {
   // ... rest of the ready hook code
 
   // Add currency section to character sheets
+});
+
 Hooks.on("renderActorSheet", async (app, html, data) => {
   console.log("Rendering actor sheet");
   const playerId = data.actor.id;
