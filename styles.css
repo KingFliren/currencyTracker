@@ -1,0 +1,13 @@
+.currency-section {
+  margin-top: 10px;
+}
+
+.currency-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.currency-item img {
+  margin-right: 5px;
+}

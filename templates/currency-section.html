@@ -1,0 +1,10 @@
+<section class="currency-section">
+  <h2>Currencies</h2>
+  {{#each currencies}}
+  <div class="currency-item">
+    <img src="{{this.icon}}" alt="{{this.name}}" width="20" height="20">
+    <span>{{this.name}}: </span>
+    <input type="number" class="currency-value" data-player-id="{{playerId}}" data-currency-type="{{this.name}}" value="{{this.amount}}">
+  </div>
+  {{/each}}
+</section>

@@ -1,0 +1,30 @@
+{
+  "name": "currency-tracker",
+  "title": "Currency Tracker",
+  "description": "A module to track customizable currency for players.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Your Name",
+      "url": "https://yourwebsite.com",
+      "email": "your.email@example.com"
+    }
+  ],
+  "scripts": [
+    "scripts/currency-tracker.js",
+    "scripts/currency-settings.js"
+  ],
+  "styles": [
+    "styles/styles.css"
+  ],
+  "packs": [],
+  "esmodules": [],
+  "languages": [],
+  "system": "",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "11",
+  "url": "",
+  "manifest": "",
+  "download": "URL_to_download_this_module",
+  "license": "LICENSE_TYPE"
+}
